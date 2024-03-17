@@ -3,7 +3,9 @@ It is a word embedding technique used particularly while handling text data for 
 
 `word embedding` :Representing text in form of real valued vector such that words that are closer in vector space are expected to be similar in meaning.
 
-Introduced in 2013 by `Google` 
+Introduced in 2013 by `Google` ( <a href="https://arxiv.org/pdf/1301.3781.pdf
+"> View research Paper</a> )
+
 Key features of word2vec:
 
 1.Semantic meaning 
