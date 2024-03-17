@@ -14,3 +14,5 @@ Key features of word2vec:
 2.Low dimension(generally 200-300 dimension) as compared to One Hot encoding,bag of words,ngram or Tf-Idf etc.
 
 3.We will get a dense vector(so overfitting problem will be reduced)
+
+Special Thanks to @campusx-official for <a href="https://www.youtube.com/watch?v=DDfLc5AHoJI">This video</a> to enhance my understanding on the topic.
