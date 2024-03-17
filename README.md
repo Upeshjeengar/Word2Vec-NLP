@@ -15,4 +15,4 @@ Key features of word2vec:
 
 3.We will get a dense vector(so overfitting problem will be reduced)
 
-Special Thanks to @campusx-official for <a href="https://www.youtube.com/watch?v=DDfLc5AHoJI">This video</a> to enhance my understanding on the topic.
+Special Thanks to @github/campusx-official for <a href="https://www.youtube.com/watch?v=DDfLc5AHoJI">This video</a> to enhance my understanding on the topic.
