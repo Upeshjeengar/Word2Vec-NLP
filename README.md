@@ -1,4 +1,5 @@
-#Word2Vec: A gentle Introduction
+<h1>Word2Vec: A gentle Introduction<h1/>
+  
 It is a word embedding technique used particularly while handling text data for NLP related tasks.
 
 `word embedding` :Representing text in form of real valued vector such that words that are closer in vector space are expected to be similar in meaning.
