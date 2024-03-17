@@ -1,4 +1,4 @@
-<h1>Word2Vec: A gentle Introduction<h1/>
+<h1>Word2Vec: A gentle Introduction</h1>
   
 It is a word embedding technique used particularly while handling text data for NLP related tasks.
 
